@@ -6,7 +6,8 @@ http://www.naver.com
 괄호를 넣으면 네이버에 링크  
 안넣으면 주소에 링크    
 
-
+![이미지](https://github.com/LETSGO2SLEP/lab0515/blob/master/turtle.jpg)  
+!를 앞에 넣으면 그림 화면이 바로 보인다.
 
 *****************
 문장 중간에 함수 `f(x)` 부분에서 함수의 결과가 y에 저장됨다.
